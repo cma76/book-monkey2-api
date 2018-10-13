@@ -30,5 +30,11 @@
     "@types/restify": "2.0.42",
     "@types/lodash": "4.14.59"
   },
-  "keywords": ["demo", "rest", "crud", "restify", "backend"]
+  "keywords": [
+    "demo",
+    "rest",
+    "crud",
+    "restify",
+    "backend"
+  ]
 }

@@ -19,7 +19,7 @@ var server = createServer({
   }
 });
 server.use(bodyParser());
-server.use(CORS({}));
+server.use(CORS({origins: ['http://52.16.13.153:8080', 'http://localhost:4200']}));
 server.use(queryParser());
 
 
